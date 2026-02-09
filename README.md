@@ -190,4 +190,4 @@ Edit → git add → git commit → git push
 
 ---
 
-## END 🎯
+## END 
